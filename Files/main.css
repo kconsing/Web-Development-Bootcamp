@@ -1,0 +1,7 @@
+/* Box model practic */
+p { 
+    /* top tight bottom left? */
+    /* margin: 50%; */
+    border: solid;
+    padding: 25%;
+}
